@@ -38,6 +38,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=ATMega328 - WIFI.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document2]
 DocumentPath=Schematic\Main.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -54,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TSXPHVWJ
 
-[Document2]
+[Document3]
 DocumentPath=PCB\Feather-ATMega328 - WIFI.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,10 +88,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IPVOWEQJ
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for ATMega328 - WIFI\Design Rule Check - Feather-ATMega328 - WIFI.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -84,6 +97,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=
 ConfigurationType=
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
